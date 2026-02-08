@@ -103,7 +103,7 @@ body {
 }
 
 .welcome-section {
-  background-image: url("/assets/images/cover.png");
+  background-image: url("../assets/images/cover.png");
   background-position: center;
   background-size: auto;
   background-repeat: no-repeat;
@@ -329,7 +329,7 @@ body {
     font-size: 16px;
   }
   .welcome-section {
-    background-image: url("/assets/images/g3173.png");
+    background-image: url("../assets/images/g3173.png");
     background-position: center;
     background-size: auto;
     background-repeat: no-repeat;
